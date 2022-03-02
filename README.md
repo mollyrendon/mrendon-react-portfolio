@@ -1,7 +1,7 @@
 # React Portfolio
 
 ## Description
-
+This is a detailed portfolio of my projects, skills, and contact information.
 
 
 ## Table of Contents
@@ -31,4 +31,4 @@ Contributions made by Molly Rendon.
 
 
 ## Questions
-
+For any questions contact me at molly.rendon@outlook.com
