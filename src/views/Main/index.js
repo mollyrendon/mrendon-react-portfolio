@@ -3,7 +3,7 @@ import "./style.css";
 
 function MainPage() {
     return (
-        <h1>Molly Rendon</h1>
+        <h1>Placeholder for main photo</h1>
     );
 }
 
