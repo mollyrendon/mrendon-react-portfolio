@@ -13,7 +13,7 @@ function SocialLinks() {
                 <a href="https://github.com/mollyrendon">GitHub</a>
             </div>
             <div class="info-list">
-                <a href="https://www.linkedin.com/in/molly-rendon-20976210b/">Linked-In</a>
+                <a href="https://www.linkedin.com/in/molly-rendon-renninger-20976210b/">Linked-In</a>
             </div>
         </section>
     );
