@@ -15,7 +15,7 @@ This is a detailed portfolio of my projects, skills, and contact information.
 - [Questions](#questions)
 
 ## Installation
-
+npm start
 
 
 ## Usage

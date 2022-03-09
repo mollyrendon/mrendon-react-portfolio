@@ -1,9 +1,13 @@
 import React from "react";
 import "./style.css";
+import MyPhoto from "../../img/mollyrendonphoto.jpg";
+
 
 function MainPage() {
     return (
-        <h1>Placeholder for main photo</h1>
+        <div>
+            <img src={MyPhoto} className="main-photo" alt="My face"></img>
+        </div>
     );
 }
 

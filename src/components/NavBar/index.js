@@ -18,6 +18,9 @@ function NavBar() {
                         </a>
                     </li>
                     <li>
+                        <a href="https://docs.google.com/document/d/1pQxaddgBOhvvxxMEOjtdm7lLBO16eaRig9MCLJnXGME/edit?usp=sharing">Resume</a>
+                    </li>
+                    <li>
                         <a href="#contact">
                             Contact Me
                         </a>
